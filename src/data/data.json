@@ -1,0 +1,35 @@
+
+[
+  {
+    "id": 1,
+    "title": "Complete Flutter UI Design",
+    "description": "Design the home screen for the task manager app",
+    "status": "Pending",
+    "priority": "High",
+    "dueDate": "2026-10-15"
+  },
+  {
+    "id": 2,
+    "title": "Connect API",
+    "description": "Integrate REST API with Flutter application",
+    "status": "In Progress",
+    "priority": "Medium",
+    "dueDate": "2026-10-18"
+  },
+  {
+    "id": 3,
+    "title": "Fix Login Bug",
+    "description": "Resolve authentication issue on login screen",
+    "status": "Completed",
+    "priority": "High",
+    "dueDate": "2026-10-10"
+  },
+  {
+    "id": 4,
+    "title": "Write Documentation",
+    "description": "Create user guide and setup instructions",
+    "status": "Pending",
+    "priority": "Low",
+    "dueDate": "2026-10-20"
+  }
+]
